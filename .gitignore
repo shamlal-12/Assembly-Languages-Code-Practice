@@ -1,0 +1,6 @@
+*.obj
+*.temp.asm
+*.exe
+*.lst
+*.map
+.vscode/
